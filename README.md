@@ -32,9 +32,10 @@ Program to create simple calculator using Android Studio.
 Developed by: R Hemapriya
 RegisterNumber:  212221230036
 */
-
+```
 
 ## MainActivity.java:
+```
 package com.example.ex_7;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -126,10 +127,11 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-
+```
 
 
 ## activity_main.xml:
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -276,8 +278,10 @@ public class MainActivity extends AppCompatActivity {
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
 
 ## AndroidMainfest.xml
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
@@ -303,10 +307,11 @@ public class MainActivity extends AppCompatActivity {
     </application>
 
 </manifest>
+```
 ## Output:
-![output]()
+![output](https://github.com/Hemapriya-2004/Ex_7_-Calculator/blob/main/71.png)
 
-![output]()
+![output](https://github.com/Hemapriya-2004/Ex_7_-Calculator/blob/main/72.png)
 
 ## Result:
 Thus a Simple Android Application to create a calculator using Android Studio was developed and executed successfully.
